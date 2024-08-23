@@ -1,0 +1,11 @@
+torch
+datasets
+transformers
+peft
+trl
+bitsandbytes
+scipy
+tensorboardX
+accelerate
+loralib
+sentencepiece
